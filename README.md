@@ -1,7 +1,5 @@
 # 02-unsupervised-learning
-<<<<<<< Updated upstream
 Unsupervised learning DEMO
-=======
 
 ## 🚀 Getting Started
 
@@ -40,4 +38,3 @@ To start the Jupyter Notebook server, open your terminal (with the virtual envir
 ```bash
 jupyter notebook
 ```
->>>>>>> Stashed changes
